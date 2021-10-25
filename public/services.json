@@ -1,0 +1,68 @@
+[
+    {
+       "title":"Imaging",
+       "img":"https://i.ibb.co/XZrZJHq/Doctor-sees-virtual-images-of-the-patient-on-a-blue-background.jpg",
+       "desc":"Medical imaging refers to several different technologies that are used to view the human body in order to diagnose, monitor, or treat medical conditions.",
+       "desc1":"Philips Inginia 3.0Tesla Digital MRI",
+       "desc2":"Philips Inginia 3.0Tesla Digital MRI",
+       "desc3":"GE Light Speed 500 slice VCT (CT Scanner)",
+       "desc4":"GE Prodigy Oracle-Bone Densitometer(BMD)",
+       "desc5":"SIEMENS Lithotripsy (ESWL)",
+       "key":1
+    },
+    {
+       "title":"Pathology",
+       "img":"https://i.ibb.co/rs8LZWc/service-2.jpg",
+       "desc":"Pathology is the medical specialty concerned with the study of the nature and causes of diseases. It underpins every aspect of medicine.",
+       "desc1":"( Biochemistry, Immunology, Serology, Microbiology, Clinical Pathology, Histopathology, Molecular Laboratory )",
+       "desc2":"Haematology –sysmex XN2000 :(Full Automated Reticulocyte Counter & 5 parts Differential Analyzer)",
+       "desc3":"Cobas 6000 (Full Automated Multibatch Biochemistry & Immunology Analyzer)",
+       "desc4":"BECKMAN Coulter Au 680 (Random Access Multibatch Chemistry Analyzer)",
+       "desc5":"Abbott-Architect i2000SR (Full Automated Random Access Immunology Analyzer)",
+       "key":2
+    },
+    {
+       "title":"Pharmacy",
+       "img":"https://i.ibb.co/R9GGJPt/service-3.jpg",
+       "desc":"Pharmacy is the clinical health science that links medical science with chemistry and it is charged with the discovery, production, disposal, safe and effective use, and control of medications and drugs. ",
+       "desc1":"Popular Medicine corner is a well-known retailer of medicine in Bangladesh.",
+       "desc2":"We provide all kinds of life saving medicine, which are available in all branches of Popular Diagnostics Ltd. ",
+       "desc3":" Our aim is to provide good medicine and best service quality to the patients.",
+       "desc4":"GE Prodigy Oracle-Bone Densitometer(BMD)",
+       "desc5":"SIEMENS Lithotripsy (ESWL)",
+       "key":3
+    },
+    {
+       "title":"Radiology",
+       "img":"https://i.ibb.co/C1bWbXd/service-4.jpg",
+       "desc":"Radiology is a branch of medicine that uses imaging technology to diagnose and treat disease. Radiology may be divided into two different areas, diagnostic radiology and interventional radiology.",
+       "desc1":"CT BRAIN & ORBIT.",
+       "desc2":"CT CHEST & CT GUIDED FNAC",
+       "desc3":"MRA ABDOMINAL AORTA",
+       "desc4":"CT ANGIOGRAM OF BRAIN AND",
+       "desc5":"Band Ligation with Short G/A",
+       "key":4
+    },
+    {
+       "title":"Health packages",
+       "img":"https://i.ibb.co/m83JHKk/service-5.webp",
+       "desc":"Rajshahi Model hospital offers you some health packages that medical science with chemistry and it is charged with the discovery, production, disposal, safe and consists the full body chekup.",
+       "desc1":"Popular Medicine corner is a well-known retailer of medicine in Bangladesh.",
+       "desc2":"We provide all kinds of life saving medicine, which are available in all branches of Popular Diagnostics Ltd. ",
+       "desc3":" Our aim is to provide good medicine and best service quality to the patients.",
+       "desc4":"GE Prodigy Oracle-Bone Densitometer(BMD)",
+       "desc5":"SIEMENS Lithotripsy (ESWL)",
+       "key":5
+    },
+    {
+       "title":"Kids corner",
+       "img":"https://i.ibb.co/mN9Nn91/service-6.jpg",
+       "desc":"Rajshahi model hospital ltd has a kids corner may be divided medical science with chemistry and it is charged with the discovery, production, disposal, safe and into two different areas, diagn for kids plaing",
+       "desc1":"CT BRAIN & ORBIT.",
+       "desc2":"CT CHEST & CT GUIDED FNAC",
+       "desc3":"MRA ABDOMINAL AORTA",
+       "desc4":"CT ANGIOGRAM OF BRAIN AND",
+       "desc5":"Band Ligation with Short G/A",
+       "key":6
+    }
+ ]

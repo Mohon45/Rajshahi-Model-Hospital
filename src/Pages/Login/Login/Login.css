@@ -1,0 +1,16 @@
+.login {
+  text-align: center;
+}
+.login-from {
+  width: 25%;
+}
+.btn-style {
+  float: left;
+  margin-left: 10px;
+}
+
+@media only screen and (max-width: 688px) {
+  .login-from {
+    width: 100%;
+  }
+}

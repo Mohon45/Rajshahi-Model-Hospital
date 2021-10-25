@@ -1,0 +1,20 @@
+.navber {
+  background-color: #00984a;
+}
+.nav-title {
+  font-family: "Lobster", cursive;
+  font-size: 2rem;
+  /* font-weight: bolder; */
+}
+.nav-link {
+  font-size: 1.2rem;
+  margin-left: 10px;
+  border-radius: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.nav-link-only:hover {
+  background-color: lightblue;
+  border: none;
+  border-radius: 20px;
+}

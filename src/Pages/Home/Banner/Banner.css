@@ -1,0 +1,33 @@
+.carosal-style {
+  height: 800px;
+  font-family: "Roboto", sans-serif;
+  margin-bottom: 10px;
+}
+.img-style {
+  width: 100%;
+}
+.carousel-title {
+  text-align: left;
+  position: absolute;
+  top: 30%;
+  left: 20%;
+  color: #00984a;
+}
+.carousel-title h1 {
+  font-weight: bold;
+}
+
+@media only screen and (max-width: 688px) {
+  .carosal-style {
+    height: 300px;
+  }
+  .carousel-title {
+    text-align: left;
+    position: absolute;
+    top: 0%;
+    left: 10%;
+    color: #00984a;
+    padding-top: 0;
+    padding-bottom: 10px;
+  }
+}
